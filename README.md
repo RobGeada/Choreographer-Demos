@@ -7,3 +7,5 @@ These are demos for the [Choreographer](https://github.com/RobGeada/Choreographe
 or
 
 `choreograph -w 10 -l SpotifyTraverse.py -c openshiftName:openshiftPass`
+
+wherein openshiftName and openshiftPass refers to your cluster username and password, respectively.
